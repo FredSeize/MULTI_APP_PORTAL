@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = git@gitlab.com:agenceseize/a16-pci/PWA.git
